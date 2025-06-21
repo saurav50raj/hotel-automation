@@ -20,6 +20,13 @@
       <scope>test</scope>
     </dependency>
 
+    <dependency>
+      <groupId>io.github.bonigarcia</groupId>
+      <artifactId>webdrivermanager</artifactId>
+      <version>5.5.3</version>
+    </dependency>
+
+
     <!-- JUnit 5 (Jupiter) -->
     <dependency>
       <groupId>org.junit.jupiter</groupId>
